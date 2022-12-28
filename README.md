@@ -5,5 +5,5 @@ I have just used small pytone code to remove president's Muuse Bixi image backgr
 ## The first image with background 
 <img src="https://github.com/Moheid/imgrembg/blob/main/madaxweyne-muuse.jpeg">
 
-## The first image with background 
+## The second image without background 
 <img src="https://github.com/Moheid/imgrembg/blob/main/madaxweyne-muuse.png">
